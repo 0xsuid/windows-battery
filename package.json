@@ -1,0 +1,25 @@
+{
+  "name": "windows-battery",
+  "version": "1.0.0",
+  "description": "Windows OS battery information library",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xsuid/winbattery.git"
+  },
+  "keywords": [
+    "battery",
+    "windows",
+    "charge",
+    "0xsuid"
+  ],
+  "author": "Godhani Harsh <0xsuid@protonmail.com> (https://godhani.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xsuid/winbattery/issues"
+  },
+  "homepage": "https://github.com/0xsuid/winbattery#readme"
+}
