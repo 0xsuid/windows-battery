@@ -1,5 +1,8 @@
 # Windows battery
-[![](https://img.shields.io/npm/v/windows-battery.svg)](https://github.com/0xsuid/windows-battery)
+[![](https://img.shields.io/npm/v/windows-battery.svg?style=flat-square)](https://github.com/0xsuid/windows-battery)
+[![](https://img.shields.io/npm/dm/windows-battery.svg?style=flat-square)](https://www.npmjs.com/package/windows-battery)
+[![](https://img.shields.io/david/0xsuid/windows-battery.svg?style=flat-square)](https://david-dm.org/0xsuid/windows-battery)
+[![](https://img.shields.io/snyk/vulnerabilities/npm/windows-battery.svg?style=flat-square)](https://snyk.io/test/github/0xsuid/windows-battery?targetFile=package.json)
 
 Windows OS battery information library for Node.js
 
