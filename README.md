@@ -22,3 +22,11 @@ console.log(windows.battery())
 //    estcharge: 93,
 //    ischarging: true }
 ```
+
+## Reference
+
+- **designcap** - Designed (initial) capacitiy of the battery in mAh.  
+- **currcap** - Current capacity of the battery in mAh.  
+- **health** - Battery health percentage.  
+- **estcharge** - estimated current charge remaining in percentage - aka battery percentage.  
+- **ischarging** - Battery is connected to AC power supply or not.  
